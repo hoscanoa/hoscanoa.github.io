@@ -1,18 +1,18 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "username.github.io" # the base hostname & protocol for your site.
+url: "hoscanoa.github.io" # the base hostname & protocol for your site.
 
 paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: Your awesome site name :)
-header: Write something about you here...
+title: Hoscanoa Serializando 2.0
+header: Matemático, programador apasionado de C/C++, Java, Python y Javascript. Fotógrafo aficionado y constructor de cometas.
 
 # for welcome page
 # to replace image go to index.html
 email:
-  address: "user@example.com"
-  text: "user (at) example.com"
+  address: "hoscanoa@gmail.com"
+  text: "hoscanoa (at) gmail.com"
 
 # disqus comment
 disqus:
@@ -20,7 +20,7 @@ disqus:
 
 # google analytics
 google:
-    tracking-id: "" #your tracking id here
+    tracking-id: "UA-136771046-1" #your tracking id here
 
 gems:
   - jekyll-sitemap
